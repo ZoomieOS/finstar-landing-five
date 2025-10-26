@@ -62,15 +62,15 @@
         width: 500px;
         height: 500px;
         top: 9%;
-        right: -6%;
-        background: radial-gradient(50% 50% at 50% 50%, rgba(215, 254, 200, 0.4) 0%, rgba(215, 254, 200, 0) 100%);
+        left: -17%;
+        background: radial-gradient(50% 50% at 50% 50%, rgba(215, 254, 200, 1) 0%, rgba(215, 254, 200, 0) 100%);
     }
 
     .bg-glow-invests {
         width: 200px;
         height: 200px;
         bottom: 10%;
-        left: 4%;
+        right: 4%;
         background: radial-gradient(50% 50% at 50% 50%, rgba(215, 254, 200, 0.4) 0%, rgba(215, 254, 200, 0) 100%);
     }
 
